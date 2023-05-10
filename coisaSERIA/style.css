@@ -1,11 +1,15 @@
-h1 {
+H1 {
 text-align:center;
 color:blueviolet;
 background-color: aqua;
 }
 
-.A{
+.imagem{
 display:block;
-margin-left;
-margin-right
+margin-left:auto;
+margin-right:auto;
+
+
+
+
 }
