@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color:rgb(0, 0, 0);
+    background-color: #7700ff;
+    font-weight: bold;
+    font-style: inherit;
+}
+header {
+    background-color: #7700ff;
+    padding: 20px 0;
+}
+body{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    left: 0;
+    top: 40px;
+
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}

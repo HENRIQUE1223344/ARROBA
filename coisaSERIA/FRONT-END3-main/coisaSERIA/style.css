@@ -20,6 +20,36 @@ header{ background-color: black;
 
 }
 
+.divisao1 {
+    background-color: #7700ff;
+    border: 8px solid #000000;
+    padding: 10px;
+
+}
+.divisao2 {
+    background-color: #7700ff;
+    border: 8px solid #000000;
+    padding: 10px;
+
+}
+.divisao3 {
+    background-color: #7700ff;
+    border: 8px solid #000000;
+    padding: 10px;
+
+}
+h1 {
+    text-align: center;
+    color:#000000;
+    background-color:#7700ff;
+    font-weight: bold;
+    font-style: inherit;
+}
+body{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
 
 
 
